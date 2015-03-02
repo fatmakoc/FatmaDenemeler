@@ -1,0 +1,60 @@
+
+h1{
+	text-align: right;
+	color:purple;
+    font-family: Buxton Sketch;
+}
+
+
+
+.nvb{
+ 
+   font-size:150%;
+   color:blue;
+   font-weight: bold;
+   text-align:center;
+
+
+}
+
+#nvb2{
+  
+     text-align: right;
+     font-size:150%;
+     color:blue;
+}
+
+
+a:hover {
+text-decoration:underline;
+color: #33aaff;
+background-color: black;
+
+}
+
+#KGirisi{
+	border:2px;
+	border-style: solid;
+	border-color:black;
+
+
+}
+
+#LogIn{
+   
+   padding-left: 40%;
+
+}
+
+#tabloveri{
+
+  border:3x;
+  border-style: dotted;
+  border-color:black;
+
+}
+
+#div2{
+
+   padding-left: 80px;
+}
